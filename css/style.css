@@ -88,6 +88,12 @@ header, footer {
 	font-size: 60px;
 }
 
+@media (max-width: 1180px) {
+	.fs-60 {
+	        fonts-size: 40px;
+	}
+}
+
 .title {
 	display: block;
 	font-weight: 500;
