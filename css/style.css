@@ -94,6 +94,13 @@ header, footer {
 	}
 }
 
+@media (max-width: 575px) {
+	.fs-60 {
+	        fonts-size: 20px;
+	}
+}
+
+
 .title {
 	display: block;
 	font-weight: 500;
